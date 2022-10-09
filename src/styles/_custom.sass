@@ -2,14 +2,23 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  //&-2
+    top: 17%
+    right: 0%
+  &-2
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 0%
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 70%
+    right: 65%
+  &-4
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 80%
 
 @keyframes float1
   0%
@@ -17,6 +26,48 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+.banner-principal__info
+  background-image: url("../assets/curso/portada/banner-principal-decorativo-5.svg"), url("../assets/curso/portada/banner-principal-decorativo-6.svg")
+  align-self: stretch, stretch
+  background-repeat: no-repeat, no-repeat
+  background-position: 0% 5%, 10% 90%
+  background-size: 20%, 10%
+  animation: Flitp1 6s ease infinite
+
+@keyframes Flitp1
+  0%
+    background-image: url("../assets/curso/portada/banner-principal-decorativo-5.svg"), url("../assets/curso/portada/banner-principal-decorativo-6.svg")
+  50%
+    background-image: url("../assets/curso/portada/banner-principal-decorativo-5.svg"), url("../assets/curso/portada/banner-principal-decorativo-6.svg")
+    background-position: 5% 5%, 15% 90%
+  100%
+    background-image: url("../assets/curso/portada/banner-principal-decorativo-5.svg"), url("../assets/curso/portada/banner-principal-decorativo-6.svg")
+
+.banner-principal__img
+  width: 29%
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.tabs-a.color-acento-contenido .tabs-a__tab__selected
+  .tabs-a__tab__text
+    color: white
+
+.tarjeta.color-acento-botones
+  background-color: #E8E1FC
+  h4,p
+    color: #12263F
+
+.pasos-a.color-acento-contenido .pasos-a__circle div
+  color: white !important
 
 .img-t
   width: auto
@@ -61,6 +112,42 @@
   width: 50px
   top: -6px
   left: 367px
+
+.img-a8
+  position: absolute
+  width: 130px
+  top: -33px
+  left: 590px
+
+.img-a9
+  position: absolute
+  width: 250px
+  top: -33px
+  left: -40px
+
+.img-a10
+  position: absolute
+  width: 130px
+  top: -33px
+  left: 590px
+
+.img-a11
+  position: relative
+  width: 60px
+  left: 40px
+  top: 20px
+
+.img-a12
+  position: absolute
+  width: 220px
+  left: -40px
+  top: -40px
+
+.img-a13
+  position: absolute
+  width: 120px
+  top: -26px
+  left: 660px
 
 .bg1
   background-image: url("../assets/curso/tema1/img1.png") 
@@ -144,6 +231,167 @@
   background-repeat: no-repeat
   background-size: cover
 
+.bg12
+  background-color: #E8E1FC
+  padding: 20px
+
+.bg13
+  background-color: #E8E1FC
+  height: 320px
+
+.bg14
+  background-color: #CCFFF0
+  height: 320px
+
+.bg15
+  background-color: #FFF1B3
+  height: 320px
+
+.bg16
+  background-color: #D1C3FA
+  height: 320px
+
+.bg17
+  background-color: #D1C3FA
+  border-radius: 15px
+
+.bg18
+  background-color: #A488F5
+  border-radius: 15px
+
+.bg19
+  position: relative
+  .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: 20%
+    left: 0px
+    width: calc( 100% + -25rem)
+    height: 60%
+    background-color: #CCFFF0
+    @media (max-width: $bp-max-md)
+      background-size: cover
+      top: 12%
+      left: 0px
+      width: calc( 40% + 1rem)
+      height: 40%
+
+.bg20
+  background-color: #8D6AF2
+
+.bg21
+  background-color: #FFF1B3
+  border-top-right-radius: 15px
+  border-bottom-right-radius: 15px
+
+.bg22
+  background-color: #F9F6FF
+  padding: 15px
+
+.bg23
+  background-color: #F9F6FF
+
+.bg24
+  background-color: #D1C3FA
+  border-radius: 15px
+
+.bg25
+  background-color: #FFEA8E
+  border-radius: 15px
+
+.bg26
+  background-color: #FFF1B3
+  border-radius: 15px
+
+.bg27
+  background-color: #CCFFF0
+  border-radius: 15px
+
+.bg28
+  position: relative
+  .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: 10%
+    right: 0px
+    width: calc( 5% + 20rem)
+    height: 80%
+    background-color: #CCFFF0
+    @media (max-width: $bp-max-md)
+      background-size: cover
+      top: 12%
+      left: 0px
+      width: calc( 40% + 1rem)
+      height: 40%
+
+.bg29
+  background-color: #FFE268
+
+.bg30
+  background-color: #BAA6F7
+  border-radius: 15px
+
+.bg31
+  background-color: #FFE268
+  border-radius: 15px
+
+.bg32
+  position: relative
+  .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: 10%
+    left: 0px
+    width: calc( 5% + 20rem)
+    height: 80%
+    background-color: #CCFFF0
+    @media (max-width: $bp-max-md)
+      background-size: cover
+      top: 12%
+      left: 0px
+      width: calc( 40% + 1rem)
+      height: 40%
+
+.bg33
+  background-color: #E8E1FC
+  border-top-right-radius: 15px
+  border-bottom-right-radius: 15px
+
+.bg34
+  background-color: #26D19E
+
+.bg35
+  position: relative
+  .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: -10%
+    right: 0px
+    width: calc( 10% + 20rem)
+    height: 120%
+    background-color: #CCFFF0
+    @media (max-width: $bp-max-md)
+      background-size: cover
+      top: 12%
+      left: 0px
+      width: calc( 40% + 1rem)
+      height: 40%
+
+.bg36
+  background-color: #FFF1B3
+
 .bg_color1
   background-color: #D1C3FA
 .bg_color1:hover
@@ -151,6 +399,21 @@
 
 .bgtex
   color: #764CF0
+
+.txt-a1
+  text-align: left
+
+.txt-c1
+  color: #FFD41C !important
+  font-weight: bold
+
+.txt-c2
+  color: white
+
+.txt-c3
+  color: #12263F !important
+  i
+    color: #12263F !important
 
 .dual-txt-deco
   position: relative
@@ -165,9 +428,9 @@
     z-index: 0   
 
 .transf
-  transition: transform .2s;
+  transition: transform .2s
   &:hover
-    transform: scale(1.10);
+    transform: scale(1.10)
 
 .tarjeta--azul
   background-image: url(../assets/curso/tema1/img4.png)
@@ -177,6 +440,18 @@
 
 .tarjeta--azul1
   background-image: url(../assets/curso/tema1/img40.png)
+  background-repeat: no-repeat
+  background-size: cover
+  border-radius: 15px !important
+
+.tarjeta--azul2
+  background-image: url(../assets/curso/tema2/img54.svg)
+  background-repeat: no-repeat
+  background-size: cover
+  border-radius: 15px !important
+
+.tarjeta--azul3
+  background-image: url(../assets/curso/tema3/img6.svg)
   background-repeat: no-repeat
   background-size: cover
   border-radius: 15px !important
@@ -227,3 +502,9 @@ hr:not([size])
   border-top: 5px solid #764CF0
   &_2
     border-top: 5px solid #764CF0
+
+@media screen and ( max-width: 1200px )
+
+  .banner-principal__info
+    background-image: none
+    animation: none

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.542" cy="0.121" r="0.928" gradientTransform="matrix(0.961, -0.277, 0.277, 0.961, 1.87, -0.416)" gradientUnits="objectBoundingBox">
+      <stop offset="0.204" stop-color="#ff4053"/>
+      <stop offset="1" stop-color="#860709"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.693" cy="-0.179" r="1.506" gradientTransform="matrix(0.869, -0.277, 0.25, 0.961, 3.434, -0.937)" gradientUnits="objectBoundingBox">
+      <stop offset="0.204" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ffa6b9"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.5" r="0.427" gradientTransform="matrix(-0.463, 0.851, -1.098, -0.766, 49.68, 5.781)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.103" stop-color="#fff" stop-opacity="0.847"/>
+      <stop offset="0.29" stop-color="#fff" stop-opacity="0.596"/>
+      <stop offset="0.469" stop-color="#fff" stop-opacity="0.38"/>
+      <stop offset="0.635" stop-color="#fff" stop-opacity="0.216"/>
+      <stop offset="0.783" stop-color="#fff" stop-opacity="0.098"/>
+      <stop offset="0.91" stop-color="#fff" stop-opacity="0.027"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="0.5" cy="0.5" r="0.819" gradientTransform="matrix(-0.434, -0.755, -0.237, 0.31, 95.893, 38.793)" xlink:href="#radial-gradient-3"/>
+    <linearGradient id="linear-gradient" x1="-1.24" y1="-24.583" x2="-2.064" y2="-25.576" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.248" stop-color="#fff" stop-opacity="0.702"/>
+      <stop offset="0.519" stop-color="#fff" stop-opacity="0.404"/>
+      <stop offset="0.744" stop-color="#fff" stop-opacity="0.184"/>
+      <stop offset="0.91" stop-color="#fff" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="10.98" y1="18.835" x2="10.153" y2="17.855" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_80232" data-name="Grupo 80232" transform="translate(-89.898 -183.515)">
+    <path id="Trazado_113566" data-name="Trazado 113566" d="M125.19,196.533a18,18,0,1,1-22.274-12.31A18,18,0,0,1,125.19,196.533Z" fill="url(#radial-gradient)"/>
+    <path id="Trazado_113567" data-name="Trazado 113567" d="M120.447,205.845c-4.165,1.2-3.726,4.681-3.726,4.681s-1.481-3.181-5.646-1.981c-4.006,1.154-4.006,5.547-2.893,7.576,2.942,5.362,12.183,7.05,12.183,7.05s6.925-6.346,6.563-12.45c-.137-2.31-2.475-6.03-6.481-4.876" transform="translate(-9.744 -12.209)" fill-rule="evenodd" fill="url(#radial-gradient-2)"/>
+    <g id="Grupo_80226" data-name="Grupo 80226" transform="translate(94.272 184.452)">
+      <path id="Trazado_113568" data-name="Trazado 113568" d="M126.612,201.912c-5.166-3.286-7.683-8.905-5.623-12.554s7.917-3.944,13.082-.659,7.682,8.905,5.623,12.554S131.778,205.2,126.612,201.912Z" transform="translate(-111.04 -186.053)" opacity="0.5" fill="url(#radial-gradient-3)" style="mix-blend-mode: overlay;isolation: isolate"/>
+      <path id="Trazado_113569" data-name="Trazado 113569" d="M100.424,240.423c-1.776,1-.337,3.777,3.214,6.207s7.869,3.59,9.646,2.591.338-3.778-3.214-6.206S102.2,239.425,100.424,240.423Z" transform="translate(-99.663 -215.674)" opacity="0.4" fill="url(#radial-gradient-4)" style="mix-blend-mode: overlay;isolation: isolate"/>
+      <path id="Trazado_113570" data-name="Trazado 113570" d="M131.19,191.342c-.266,2.642-4.347,4.394-9.116,3.914s-8.417-3.013-8.15-5.655,4.348-4.4,9.117-3.914S131.456,188.7,131.19,191.342Z" transform="translate(-107.528 -185.607)" opacity="0.4" fill="url(#linear-gradient)" style="mix-blend-mode: overlay;isolation: isolate"/>
+      <path id="Trazado_113571" data-name="Trazado 113571" d="M111.868,248.963c.278-1.848,3.205-2.939,6.539-2.439s5.81,2.407,5.532,4.254-3.206,2.937-6.539,2.437S111.59,250.81,111.868,248.963Z" transform="translate(-106.389 -219.173)" opacity="0.4" fill="url(#linear-gradient-2)" style="mix-blend-mode: overlay;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

@@ -19,7 +19,6 @@
         figure.p-5
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          
     p.mb-5 El mercadeo, para definirlo desde el contexto social, muestra una función basada en la sociedad; por ejemplo, el rol del mercadeo es la entrega de un modelo de vida de mejor calidad. Por eso, es un proceso social en el que existen grupos de personas e individuos que logran lo que necesitan y desean a través de la creación, comercio e intercambio de productos de valor para ellos. Los especialistas de mercadeo promocionan 10 tipos principales de artículos, a saber: 
     .tarjeta.tarjeta--azul.p-5.mb-5
       SlyderA(tipo="b")(data-aos="fade-right")
@@ -475,7 +474,7 @@
           img(src="@/assets/curso/tema1/img55.svg", alt="alt")
       .col
         h4.mb-0.bgtex Etapa 3. 
-        p.mb-0 Elección y desarrollo de las estrategias de marketing
+        p.mb-0 Elección y desarrollo de las estrategias de <em>marketing</em>
         .col-md-4.borde
     p Esta etapa sirve para la consecución de los objetivos. Para la definición de las estrategias se deben tener en cuenta las “4P” desde lo digital que, mezcladas de la manera más provechosa, darán como resultado en una estrategia coherente con el producto ofrecido en la <em>web</em>. 
     p.mb-5 Una posible lista de temas para tener en cuenta, en la elaboración de las estrategias, es:
@@ -708,7 +707,7 @@
         figure
           img(src='@/assets/curso/tema1/img77.png').m-auto
       .col-lg-8(data-aos="fade-left")
-        p <em>Kotler y Keller</em> (2012) expresan que las estrategias y los planes creativos son los ingredientes clave del proceso de dirección de mercadeo y, además, son lo que pueden guiar las actividades de marketing de la empresa. El desarrollo correcto de la estrategia demanda tener disciplina y flexibilidad, por lo se recomienda que las marcas se adhieran a una estrategia, y mejorarla constantemente.
+        p <em>Kotler y Keller</em> (2012) expresan que las estrategias y los planes creativos son los ingredientes clave del proceso de dirección de mercadeo y, además, son lo que pueden guiar las actividades de <em>marketing</em> de la empresa. El desarrollo correcto de la estrategia demanda tener disciplina y flexibilidad, por lo se recomienda que las marcas se adhieran a una estrategia, y mejorarla constantemente.
         .row.bg5.p-3.mb-3
           .col-lg-10
             p.bg5 Uno de los objetivos de las marcas es <b>la entrega de valor para el público objetivo con un beneficio</b>. En una economía tan competitiva, con públicos cada vez más informados y con muchas opciones, la marca solo puede ganar ajustando el proceso de entrega de valor y elegir, suministrar e informar un valor preferente. 
@@ -735,7 +734,7 @@
           img(src='@/assets/curso/tema1/img80.svg', style="width: 102px")
           .tarjeta.color-acento-contenido1
             .p-4
-              p <b>La planeación táctica</b> de mercadeo especifica las tácticas de marketing que contienen las características del producto, publicidad, comercio, adjudicación de precios, distribución y servicio. 
+              p <b>La planeación táctica</b> de mercadeo especifica las tácticas de <em>marketing</em> que contienen las características del producto, publicidad, comercio, adjudicación de precios, distribución y servicio. 
     p.mb-5 Como complemento al desarrollo de una adecuada y bien formulada planeación estratégica veamos en la siguiente imagen la secuencia correspondiente a la planificación, implementación y control. 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -936,7 +935,7 @@
           img(src='@/assets/curso/tema1/img99.png').m-auto
       .col-lg-8(data-aos="fade-left")
         p Tal como afirman Rodríguez, Montes y López (2007), en los mercados amplios, grandes y diversos, es una utopía que las marcas se puedan contactar con todos los clientes. Lo que sí se puede hacer es dividir esos mercados en grupos de consumidores homogéneos, o sea, segmentos que se conforman por tener las mismas necesidades y deseos. La marca, entonces, necesita elegir los segmentos de mercado que puede atender con eficacia.
-        p Para ser más competitivos, muchas marcas han adoptado en la actualidad el marketing dirigido, o sea, enfocarse en aquellas clientes que tienen mejor opción de satisfacer. Para ser efectivo, el marketing dirigido exige que los especialistas en mercadeo:     
+        p Para ser más competitivos, muchas marcas han adoptado en la actualidad el <em>marketing</em> dirigido, o sea, enfocarse en aquellas clientes que tienen mejor opción de satisfacer. Para ser efectivo, el <em>marketing</em> dirigido exige que los especialistas en mercadeo:     
     .row.mb-5
       .col-12.col-lg-4.mb-3.h-100(data-aos="zoom-in")
         .row.bg9
