@@ -442,7 +442,7 @@
                     img(src='@/assets/curso/tema2/img28.svg', style="width: 140px").m-auto
                 .col
                   p La introducción de productos digitales, por ejemplo, puede verse favorecida por algunas herramientas, como por ejemplo redes sociales, sitio web, blogs, foros, chats, etc., que de manera económica, creativa y recursiva ayudan a las Pymes para lograr posicionar no solo la marca, sino los productos. Además, se entiende que el uso de estrategias acciones de mercadeo digital ayudan a que el producto sea exitoso en poco tiempo.
-              p En la etapa de introducción, se debe haber desarrollado el mapeo del buyer persona de la marca. Esa información ayuda a comprender la necesidad real del cliente, mejorando la precisión de las acciones estratégicas, así como la optimización en el alcance territorial del producto.
+              p En la etapa de introducción, se debe haber desarrollado el mapeo del <em>buyer</em> persona de la marca. Esa información ayuda a comprender la necesidad real del cliente, mejorando la precisión de las acciones estratégicas, así como la optimización en el alcance territorial del producto.
       .col-lg-4
         figure
           img(src='@/assets/curso/tema2/img23.png', style="width: 450px").m-auto

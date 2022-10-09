@@ -10,8 +10,8 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Elementos de reflexión y apropiación en la gestión de marketing digital
-        p.mb-4 #[b Objetivo] Identificar y entender conceptos fundamentales relacionados con la gestión del marketing digital y buyer persona. 
+          h2 Elementos de reflexión y apropiación en la gestión de <em>marketing</em> digital
+        p.mb-4 #[b Objetivo] Identificar y entender conceptos fundamentales relacionados con la gestión del <em>marketing</em> digital y <em>buyer</em> persona. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
