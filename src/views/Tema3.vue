@@ -121,7 +121,7 @@
         figure
           img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
       .col
-        p.mb-0 #[b Cómo hacer un mapa de empatía en seis pasos]
+        p.mb-0 #[b Cómo aplicar los arquetipos de Carl Jung en tu estrategia de marketing digital]
     p.mb-5 Carl Jung planteó su propia forma de comprender las motivaciones de la personalidad del ser humano a través de los arquetipos, definiendo doce prototipos primarios con distintos significados, valores y personalidades que encarnan las más elementales motivaciones del ser humano. Sus 12 arquetipos son: el inocente, el amigo, el héroe, el cuidador, el explorador, el rebelde, el amante, el creador, el bufón, el sabio, el mago y el gobernante. De acuerdo con estos prototipos, se han creado los arquetipos digitales.
     .titulo-sexto.color-acento-contenido
       p.mb-0 #[b Figura 5]. Los 12 arquetipos de marca de Carl Jung
@@ -240,7 +240,8 @@
               figure
                 img(src='@/assets/curso/tema3/img7.svg', style="width: 90px").m-auto
             .col
-              p.mb-0 El arquetipo, también conocido como #[b “persona”], se refiere a la tipología de cliente a la que se dirige la marca. Se trata de humanizarlo (se le pone nombre y foto), de esta forma se empatiza con el cliente. En el arquetipo de cliente se debe incluir información como nombre, foto, aspectos socio demográficos o socioeconómicos, edad, ocupación, nivel educativo, profesión, motivaciones, objetivos, frustraciones y limitaciones y, sobre todo, si existe relación con el producto de la marca. Por su lado, los #[i buyer] persona son el cliente ideal al que la marca quiere dirigirse.
+              p Como se puede apreciar, el público objetivo abarca una parte de la sociedad a la cual se dirigen los productos de la marca. Por su lado el <em>buyer</em> persona representa al cliente ideal, de manera más humanizada y personalizada. Inicialmente pueden ser muy parecidos, pero es diferente pensar una estrategia de <em>marketing</em> digital que se direcciona a Carlos, en vez de un público objetivo bastante amplio. 
+              p Por otro lado, si se piensa que se ha segmentado muy a fondo, no es necesario limitarse a un solo <em>buyer</em> persona. Es normal que las marcas tengan más de un  <em>buyer</em> persona determinada, pero siempre y cuando no se exagere en la cantidad a la hora de elegirlas
     .row.align-items-center.mb-4
       .col-auto.pe-0
         figure

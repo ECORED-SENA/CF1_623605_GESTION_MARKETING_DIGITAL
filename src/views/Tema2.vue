@@ -96,7 +96,7 @@
     .row.bg11.justify-content-center.align-items-center.p-4.p-lg-5
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p Para entender con mayor precisión el lienzo de valor es importante reconocer la definición de cada uno de los conceptos a registrar de la siguiente forma:
-        p En el mercado se pueden encontrar herramientas de <em>software</em> para desarrollar planes de mercadeo. Estas herramientas se diseñan de forma especial para <em>Pymes</em> y pequeños empresarios, que, a corto plazo y de una forma sencilla, podrán aprender a elaborar y revisar sus propios planes de mercadeo efectiva y rentablemente.
+        
         ul.lista-ul
           li 
             i.fas.fa-check-circle(style="color:#764CF0")
@@ -577,20 +577,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
       .col-lg-12.col-md-6
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-          .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
-            figure.mb-3
-              img.img-t(src='@/assets/curso/tema2/img36.svg').mx-auto
-            h3.text-center Marca respaldada
-            p.text-center Marca establecida que respalda, ampara y cubre a submarcas y/o productos.
-            img.img-a(src='@/assets/componentes/circulo.svg')
-            img.img-a2(src='@/assets/componentes/rectangulo.svg')
-          .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
-            figure.mb-3
-              img.img-t(src='@/assets/curso/tema2/img37.svg').mx-auto
-            h3.text-center Marca de beneficio
-            p.text-center Marcas que incluyen un beneficio determinado al producto a través de un atributo que entrega identidad, ventaja competitiva y diferenciación, concediendo el liderazgo en el mercado.
-            img.img-a(src='@/assets/componentes/circulo.svg')
-            img.img-a2(src='@/assets/componentes/rectangulo.svg')
+          
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
             figure.mb-3
               img.img-t(src='@/assets/curso/tema2/img38.svg').mx-auto
@@ -610,6 +597,20 @@
               img.img-t(src='@/assets/curso/tema2/img40.svg').mx-auto
             h3.text-center Marca respaldadora
             p.text-center Marca establecida, con prestigio y reconocimiento que otorga credibilidad y confianza a sus productos.
+            img.img-a(src='@/assets/componentes/circulo.svg')
+            img.img-a2(src='@/assets/componentes/rectangulo.svg')
+          .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
+            figure.mb-3
+              img.img-t(src='@/assets/curso/tema2/img36.svg').mx-auto
+            h3.text-center Marca respaldada
+            p.text-center Marca establecida que respalda, ampara y cubre a submarcas y/o productos.
+            img.img-a(src='@/assets/componentes/circulo.svg')
+            img.img-a2(src='@/assets/componentes/rectangulo.svg')
+          .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
+            figure.mb-3
+              img.img-t(src='@/assets/curso/tema2/img37.svg').mx-auto
+            h3.text-center Marca de beneficio
+            p.text-center Marcas que incluyen un beneficio determinado al producto a través de un atributo que entrega identidad, ventaja competitiva y diferenciación, concediendo el liderazgo en el mercado.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
     p.mb-5 La clasificación de las marcas incluye entonces la relación con la organización a la que representa, el rol que desarrolla como parte de su dinámica, pero también la gama en la que puede ser clasificada, a continuación, se detallan cuatro de las principales gamas de marcas así:
@@ -676,13 +677,13 @@
         figure
           img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
       .col
-        p.mb-0 #[b Branding]
+        p.mb-0 #[b #[i Branding]]
     .row.align-items-center.mb-5
       .col-lg-8
         p Es el conjunto de procesos estratégicos que componen la arquitectura de marca, y su principal objetivo es generar capital de marca. Radica en transmitir a los productos el poder de su marca, principalmente a través de la generación de elementos que los diferencien de otros productos. 
         p Genera estructuras mentales y ayuda a que los clientes ordenen sus conocimientos sobre los productos de manera que su toma de decisiones sea más simple, y en el proceso se forje valor para la empresa.
-        p.ms-4 Si se desea que las estrategias de branding generen valor de marca se hace necesario que los clientes se convenzan de que existen significativas diferencias entre las marcas de una misma categoría de productos. Estas diferencias se relacionan con propiedades o particularidades propias del producto.
-        p Existen dos dimensiones del branding: #[b de producto y corporativo].
+        p.ms-4 Si se desea que las estrategias de <em>branding</em> generen valor de marca se hace necesario que los clientes se convenzan de que existen significativas diferencias entre las marcas de una misma categoría de productos. Estas diferencias se relacionan con propiedades o particularidades propias del producto.
+        p Existen dos dimensiones del <em>branding</em> : #[b de producto y corporativo].
       .col-lg-4
         figure
           img(src="@/assets/curso/tema2/img29.png", style="width: 350px")
@@ -691,12 +692,12 @@
         img.img-a11.d-none.d-lg-block(src='@/assets/curso/tema2/img51.svg')
         .row.h-100
           .col-12.px-5.pt-5.pb-5.pb-lg-0.bg24
-            p.mb-0 #[b En el branding de producto], el bien o servicio es sinónimo de la marca permitiendo que el cliente sume las percepciones de la marca y su imagen sobre el producto; su intención es la generación de confianza en el producto.
+            p.mb-0 #[b En el <em>branding</em>  de producto], el bien o servicio es sinónimo de la marca permitiendo que el cliente sume las percepciones de la marca y su imagen sobre el producto; su intención es la generación de confianza en el producto.
       .col-10.col-lg.m-2.m-lg-2
         img.img-a11.d-none.d-lg-block(src='@/assets/curso/tema2/img52.svg')
         .row.h-100
           .col-12.px-5.pt-5.pb-5.pb-lg-0.bg25
-            p.mb-0 #[b El branding corporativo], es un conjunto de todas las experiencias, percepciones y encuentros que ha tenido un consumidor con una empresa; su intención es la generación de confianza en la empresa.
+            p.mb-0 #[b El <em>branding</em>  corporativo], es un conjunto de todas las experiencias, percepciones y encuentros que ha tenido un consumidor con una empresa; su intención es la generación de confianza en la empresa.
     .row.align-items-center.mb-4
       .col-auto.pe-0
         figure

@@ -53,14 +53,14 @@
         .row.align-items-center(data-aos="fade-right")
           .col-lg-4.mb-4.mb-lg-0.ps-5
             p #[b Personas]
-            p Músicos, deportistas, artistas, médicos, odontólogos, psicólogos, arquitectos, ingenieros y otros profesionales de gran trayectoria reciben asesoría de los mejores especialistas en mercadeo. Crear una marca personal es una recomendación que se le hace a este tipo de profesionales
+            p Músicos, deportistas, artistas, médicos, odontólogos, psicólogos, arquitectos, ingenieros y otros profesionales de gran trayectoria reciben asesoría de los mejores especialistas en mercadeo. Crear una marca personal es una recomendación que se le hace a este tipo de profesionales.
           .col-lg-8
             figure
               img.img-t(src='@/assets/curso/tema1/img9.png').mx-auto
         .row.align-items-center(data-aos="fade-right")
           .col-lg-4.mb-4.mb-lg-0.ps-5
             p #[b Lugares]
-            p compiten por visitantes, habitantes, fábricas y compañías. Los especialistas en este tema tienen en cuenta la economía, agencias de bienes raíces, bancos, negocios, agencias publicitarias y asesores en relaciones públicas. Las Vegas <em>Convention & Visitors Authority</em>, creó un eslogan que caló en los clientes, “Lo que sucede en Las vegas, se queda en Las Vegas”, para representar que en esta gran ciudad los adultos pueden disfrutar de una gran cantidad de juegos infantiles para mayores de edad. 
+            p Países, estados, ciudades, barrios y locaciones compiten por visitantes, habitantes, fábricas y compañías. Los especialistas en este tema tienen en cuenta la economía, agencias de bienes raíces, bancos, negocios, agencias publicitarias y asesores en relaciones públicas. Las Vegas <em>Convention & Visitors Authority</em>, creó un eslogan que caló en los clientes, “Lo que sucede en Las vegas, se queda en Las Vegas”, para representar que en esta gran ciudad los adultos pueden disfrutar de una gran cantidad de juegos infantiles para mayores de edad. 
           .col-lg-8
             figure
               img.img-t(src='@/assets/curso/tema1/img10.png').mx-auto
@@ -92,7 +92,7 @@
           .col-lg-8
             figure
               img.img-t(src='@/assets/curso/tema1/img14.png').mx-auto
-    p Por otro lado, también están los que comercializan, o sea, los especialistas en mercadeo, que en realidad son especialistas en búsqueda de respuestas de un cliente potencial, como, por ejemplo, llamar la atención, comprar, votar, donar, suscribirse. 
+    p Por otro lado, también están los que comercializan, o sea, los especialistas en mercadeo, que en realidad son especialistas en búsqueda de respuestas de un cliente potencial, como, <b>por ejemplo, llamar la atención, comprar, votar, donar, suscribirse. </b>
     p.mb-5 Son estrategas que poseen la capacidad de estimular la compra de los productos, pero esa es una visión limitada de lo que hacen. Por eso, los especialistas en mercadeo se responsabilizan de administrar la demanda, buscando la influencia en el nivel, de coordinar tiempo y componer la demanda para dar cumplimiento a las metas pactadas por la empresa. Los siguientes son los ocho estados de demanda.
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
       .col-lg-12.col-md-6
@@ -101,7 +101,7 @@
             figure.mb-3
               img.img-t(src='@/assets/curso/tema1/img15.png').mx-auto
             h3.text-center Demanda negativa
-            p.text-center EProducto que no es tenido en cuenta por el consumidor, le desagrada.
+            p.text-center Producto que no es tenido en cuenta por el consumidor, le desagrada.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media 
@@ -143,7 +143,7 @@
             figure.mb-3
               img.img-t(src='@/assets/curso/tema1/img22.png').mx-auto
             h3.text-center Demanda excesiva
-            p.text-center Cuando hay una mayor cantidad de consumidores que quieren adquirir el producto que los que se pueden satisfacer
+            p.text-center Cuando hay una mayor cantidad de consumidores que quieren adquirir el producto que los que se pueden satisfacer.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media 
@@ -178,7 +178,7 @@
             .col-2
             .col-auto
               h4 Las 4F del <em>marketing</em> digital
-    p.mb-5 El <em>marketing</em> digital se basa en 4F, que vienen siendo variables compuestas por una estrategia de mercadeo efectiva, como lo hace el <em>marketing mix</em> y sus 4P: precio, producto, plaza e impulsión. En el caso de las 4F se incluyen flujo, funcionalidad, <em>feedback</em> y fidelización las cuales se detallan a continuación. 
+    p.mb-5 El <em>marketing</em> digital se basa en 4F, que vienen siendo variables compuestas por una estrategia de mercadeo efectiva, como lo hace el <em>marketing mix</em> y sus 4P: <b>precio, producto, plaza e impulsión</b>. En el caso de las 4F se incluyen <b>flujo, funcionalidad, <em>feedback</em> y fidelización</b> las cuales se detallan a continuación. 
 
     TabsB.color-acento-contenido.mb-5(data-aos="fade") 
       .py-4.py-md-5(titulo="Flujo" :icono="require('@/assets/curso/tema1/img26.svg')")
@@ -860,9 +860,9 @@
       .col-lg-5.bg4
         .p-2
           .row.align-items-center
-            .col-1
+            .col-2
             .col-auto
-              h4 Evaluar las oportunidades de crecimiento
+              h4.ps-5 Evaluar las oportunidades de crecimiento
     p.mb-5 Esto incluye tanto la planeación de nuevos negocios, como el retiro de negocios antiguos. El proceso de planificación estratégica de las unidades de negocio consta de los siguientes pasos (<em>Kotler y Keller</em>, 2012):
     .bg8
       .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
@@ -880,7 +880,7 @@
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .col-lg-10
-          p Cuando se habla del análisis del entorno externo (oportunidades y amenazas), se refiere al macro entorno, donde se analiza el Pestel, es decir las variables: política, económica, socio cultural, tecnológica, ecológica y legal, las cuales deben ser estudiadas desde el contexto empresarial. El análisis del entorno interno (fortalezas y debilidades), se refiere al micro entorno, donde se evalúan las fortalezas y debilidades de una marca. Las empresas pueden evaluar sus propias fortalezas y debilidades a través de una lista de verificación donde se analice, principalmente, la filosofía empresarial (misión, visión y valores), la diferencia competitiva, los proveedores, los distribuidores, los clientes, los socios (si los hay) y la competencia. 
+          p Cuando se habla del <b>análisis del entorno externo (oportunidades y amenazas)</b>, se refiere al macro entorno, donde se analiza el Pestel, es decir las variables: política, económica, socio cultural, tecnológica, ecológica y legal, las cuales deben ser estudiadas desde el contexto empresarial. <b>El análisis del entorno interno (fortalezas y debilidades)</b>, se refiere al micro entorno, donde se evalúan las fortalezas y debilidades de una marca. Las empresas pueden evaluar sus propias fortalezas y debilidades a través de una lista de verificación donde se analice, principalmente, la filosofía empresarial (misión, visión y valores), la diferencia competitiva, los proveedores, los distribuidores, los clientes, los socios (si los hay) y la competencia. 
       .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
         .col-lg-6
           h4 Paso 3. Formulación de metas.  
@@ -961,13 +961,15 @@
           .col-9.align-items-center.p-3
             div
               p.mb-0 <b> Instauren y notifiquen los beneficios diferenciales de la oferta de la marca para cada segmento objetivo (posicionamiento de mercado)</b>.   
-    .row.mb-5(data-aos="fade-right")
+    .row.mb-3(data-aos="fade-right")
       .col-lg-5.bg4
         .p-2
           .row.align-items-center
-            .col-1
+            .col-2
             .col-auto
-              h4 Bases para segmentar los mercados de consumo
+              h4.ps-5 Bases para segmentar los mercados de consumo
+              .row.mb-4(data-aos="fade-right")
+      
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-3.mb-4.mb-lg-0
         figure
@@ -1031,7 +1033,7 @@
           .row.align-items-center
             .col-1
             .col-auto
-              h4 Bases para segmentar los mercados empresariales
+              h4.ps-5 Bases para segmentar los mercados empresariales
     P.mb-5 Se puede segmentar los mercados de las empresas usando algunas variables empleadas para segmentación de mercados de consumo, como por ejemplo, geografía, beneficios buscados y nivel de utilización, pero los especialistas en mercadeo B2B <em>(Business to Business)</em> tienen en cuenta otras variables como las siguientes:      
     TabsB.color-acento-contenido.mb-5(data-aos="fade") 
       .py-4.py-md-5(titulo="Demográficas" :icono="require('@/assets/curso/tema1/img111.svg')")
