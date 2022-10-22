@@ -46,6 +46,7 @@
       .col-lg-10
         figure
           img(src='@/assets/curso/tema3/img5.svg')
+        figcaption Nota. Tomada y adaptada de www.rosanarosas.com/mapa-de-empatia-herramienta-para-conocer-tu-cliente/
     .row.align-items-center.mb-4
       .col-auto.pe-0
         figure

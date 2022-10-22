@@ -390,7 +390,34 @@
               img.img-t(src='@/assets/curso/tema2/img20.png', style="width: 450px").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-7.mb-4.mb-lg-0
-            h4 2. Evaluación de la fuerza competitiva de la unidad de negocio en el mercado objetivo
+            h4 2. Conocimiento del mercado
+            p El conocimiento del nicho de mercado facilita la planificación del portafolio de negocio, porque permite hallar opciones rentables y de mejor crecimiento. 
+            p Estos son algunos elementos que se deben tener en cuenta al examinar el mercado:
+            ul.lista-ul
+              li 
+                i.fas.fa-check-circle(style="color:#764CF0")
+                p.mb-0 Tasa de crecimiento
+              li 
+                i.fas.fa-check-circle(style="color:#764CF0")
+                p.mb-0 Tendencias de precios. 
+              li 
+                i.fas.fa-check-circle(style="color:#764CF0")
+                p.mb-0 Tamaño. 
+              li 
+                i.fas.fa-check-circle(style="color:#764CF0")
+                p.mb-0 Competencia. 
+              li 
+                i.fas.fa-check-circle(style="color:#764CF0")
+                p.mb-0 Rentabilidad. 
+              li 
+                i.fas.fa-check-circle(style="color:#764CF0")
+                p.mb-0 Retorno de inversión. 
+          .col-lg-5
+            figure
+              img.img-t(src='@/assets/curso/tema2/img58.png', style="width: 450px").m-auto      
+        .row.align-items-center.justify-content-center
+          .col-lg-7.mb-4.mb-lg-0
+            h4 3. Evaluación de la fuerza competitiva de la unidad de negocio en el mercado objetivo
             p Toda unidad de negocio posee su propia competencia, por lo que se deben analizar independientemente. Entender quién es la competencia (fortalezas y debilidades) puede permitir a la marca instaurar objetivos comerciales. Al hacer una evaluación sobre la fuerza competitiva se pueden identificar:
             ul.lista-ul
               li 
