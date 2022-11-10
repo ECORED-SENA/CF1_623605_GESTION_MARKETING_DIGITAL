@@ -47,12 +47,13 @@
         figure
           img(src='@/assets/curso/tema3/img5.svg')
         figcaption Nota. Tomada y adaptada de www.rosanarosas.com/mapa-de-empatia-herramienta-para-conocer-tu-cliente/
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Cómo hacer un mapa de empatía en seis pasos]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-5.bg4-1
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Cómo hacer un mapa de empatía en seis pasos
     .row.align-items-center.mb-4
       .col-lg-8.mb-4.mb-lg-0
         p Aquí se puede decir que hay una etapa antes de comenzar con los pasos, y donde se estudia, previamente, el comportamiento del consumidor ideal, por lo que se debe crear una persona ficticia construida a partir de datos reales de personas verdaderas, con particularidades psicológicas, que personifica un grupo con cualidades y comportamientos semejantes.
@@ -117,12 +118,13 @@
       .col-lg-8
         p Los arquetipos de marca son una sucesión de valores, actitudes y procederes que identifican la marca; pueden definir y crear un vínculo emocional con el cliente. Se deben descubrir y aplicar con el fin de implementar la estrategia de mercadeo apropiada para los productos y clientes que se desean seducir.
         p En la actualidad, existen distintas formas de catalogar a la audiencia: sitio de residencia, estrato socioeconómico, ingresos mensuales, estado civil, etc. Sin embargo, estos datos se quedan cortos al momento de definir el comportamiento digital de las personas.
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Cómo aplicar los arquetipos de Carl Jung en tu estrategia de marketing digital]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-9.bg4-2
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Cómo aplicar los arquetipos de Carl Jung en tu estrategia de marketing digital
     p.mb-5 Carl Jung planteó su propia forma de comprender las motivaciones de la personalidad del ser humano a través de los arquetipos, definiendo doce prototipos primarios con distintos significados, valores y personalidades que encarnan las más elementales motivaciones del ser humano. Sus 12 arquetipos son: el inocente, el amigo, el héroe, el cuidador, el explorador, el rebelde, el amante, el creador, el bufón, el sabio, el mago y el gobernante. De acuerdo con estos prototipos, se han creado los arquetipos digitales.
     .titulo-sexto.color-acento-contenido
       p.mb-0 #[b Figura 5]. Los 12 arquetipos de marca de Carl Jung
@@ -215,23 +217,24 @@
         p El #[i buyer] persona es la representación ficticia del cliente ideal. Está basada en datos reales relacionados con la conducta y particularidades demográficas de los clientes, así como en el diseño de las historias personales, desafíos, metas, motivaciones e inquietudes. 
         p El tener una base de clientes es la situación perfecta para comenzar las investigaciones y creación del #[i buyer] persona. Aunque se pueden tener perfiles distintos de personas que consumen el producto, algunos de ellos pueden tender a ser ejemplos del #[i buyer] persona.
         p Como sugerencia, se debe analizar clientes satisfechos como insatisfechos. En ambos casos, se puede aprender sobre la percepción del producto y qué desafíos enfrentan los clientes.
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Diferencia entre #[i buyer] persona y público objetivo]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-6.bg4-1
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Diferencia entre #[i buyer] persona y público objetivo
     p.mb-5 Para comprender esta diferencia es importante destacar que el público objetivo identifica un perfil del posible cliente con detalles generales que lo ubican en segmentos específicos, mientras que el #[i buyer] persona describe a una persona ficticia, pero que cumple de manera detallada todo lo que el prospecto de cliente en el perfil, las emociones, expectativas y demás, con el siguiente ejemplo se detalla la diferencia.
     .row.justify-content-center.mb-5
       .col-11.col-lg.p-4.p-lg-5.bg30.m-2
         figure.mb-3
-          img.img-t(src='@/assets/curso/tema3/img23.png', style="width: 550px")
-        h5.mb-5 Ejemplo de público objetivo:
+          img.img-t(src='@/assets/curso/tema3/img24.png', style="width: 550px")
+        h4.mb-3 Ejemplo de público objetivo:
         p.mb-0 hombres y mujeres, entre 24 y 30 años, solteros, arquitectos, ingresos mensuales promedio de $3.500.000 que desean incrementar su aprendizaje profesional y les fascina viajar.
       .col-11.col-lg.p-4.p-lg-5.bg31.m-2
         figure.mb-3
-          img.img-t(src='@/assets/curso/tema3/img24.png', style="width: 550px")
-        h5.mb-5 Ejemplo de #[i buyer] persona:
+          img.img-t(src='@/assets/curso/tema3/img23.png', style="width: 550px")
+        h4.mb-3 Ejemplo de #[i buyer] persona:
         p.mb-0 Carlos tiene 26 años de edad, es profesional en arquitectura, está recién graduado y trabaja independientemente. Piensa estudiar una maestría en el exterior (le encanta viajar) para desarrollarse profesionalmente, siempre quiso obtener un intercambio, por eso busca una agencia que lo asesore para hallar universidades europeas que avalen estudiantes del exterior. No está casado.
     .row.mb-5
       .col-12
@@ -243,12 +246,13 @@
             .col
               p Como se puede apreciar, el público objetivo abarca una parte de la sociedad a la cual se dirigen los productos de la marca. Por su lado el <em>buyer</em> persona representa al cliente ideal, de manera más humanizada y personalizada. Inicialmente pueden ser muy parecidos, pero es diferente pensar una estrategia de <em>marketing</em> digital que se direcciona a Carlos, en vez de un público objetivo bastante amplio. 
               p Por otro lado, si se piensa que se ha segmentado muy a fondo, no es necesario limitarse a un solo <em>buyer</em> persona. Es normal que las marcas tengan más de un  <em>buyer</em> persona determinada, pero siempre y cuando no se exagere en la cantidad a la hora de elegirlas
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Cuestiones que le ayudarán a definir el #[i buyer] persona]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-6.bg4-1
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Cuestiones que le ayudarán a definir el #[i buyer] persona
     p.mb-5 Es hora de orientarse por el perfil del cliente típico, o sea, dejarse llevar por la mayoría para dar respuesta a algunas preguntas que ayudarán a definir el perfil de la conducta del #[i buyer] persona; los siguientes interrogantes permiten dar mayor claridad sobre el concepto definido:
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
       .col-lg-12.col-md-6
@@ -327,12 +331,13 @@
             p.mb-0 #[b ¿Quién influye en sus decisiones?]
     p Por otro lado, se requiere tener en mente lo que el directivo responsable de comprar el producto busca en el área de acción de la marca. Se debe pensar en lo que le puede interesar, como, por ejemplo, las dificultades que enfrenta a diario y que se relacionan con el sector en que se mueve la marca.
     p.mb-5 Al terminar este proceso, se tiene una excelente cantidad de información bruta sobre los clientes potenciales.
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Cómo crear el #[i buyer] persona]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-4.bg4
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3 Cómo crear el #[i buyer] persona
     .row.mb-5
       .col-lg-4
         figure.mb-3
@@ -412,7 +417,7 @@
     p.mb-5 En la siguiente acordeón se detallan cuatro de las principales características de este <em>buyer</em> persona.
     .row.align-items-center
       .col-lg-9
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul4")
           .row(titulo="<em>Buyer</em> persona decisor")
             .col-lg-8
               p Persona que toma la decisión final en la adquisición de un producto.

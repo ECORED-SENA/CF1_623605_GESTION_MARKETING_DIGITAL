@@ -186,24 +186,26 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img8.png', style="width: 350px").m-auto
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Las nueve categorías del lienzo de modelo de negocios del modelo Canvas]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-8.bg4-2
+        .p-2
+          .row.d-flex.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Las nueve categorías del lienzo de modelo de negocios del modelo Canvas
     p.mb-5 Ahora, se expone cada una de las nueve categorías que hacen parte del lienzo del modelo Canvas y las respectivas preguntas que pueden ayudar a darle forma a cada una.
     .row.justify-content-center.bg1.mb-5
       .col-lg-12
         figure.p-5
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/DQhdG8uRVCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Pasos para la creación de un modelo de negocio con el método Canvas]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-8.bg4-2
+        .p-2
+          .row.d-flex.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Pasos para la creación de un modelo de negocio con el método Canvas
     p.mb-5 Los siguientes son los pasos para crear un modelo de negocio con el modelo Canvas:
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -308,12 +310,13 @@
               h4 Productos perro
               p Poca participación en el mercado porque no tienen crecimiento. Usualmente son productos que llegaron al final del ciclo de vida. Se debe tomar la decisión de retirarlos del mercado o de inyectarles algún cambio estratégico (nuevo empaque, distintivo visual, sabor, olor, tecnología, etc.).
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img23.svg')})`}")
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Importancia de contar con un portafolio de negocio]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-6.bg4-1
+        .p-2
+          .row.d-flex.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Importancia de contar con un portafolio de negocio
     .row.align-items-center.mb-5
       .col-lg-auto.p-4
         figure
@@ -324,25 +327,25 @@
       .col-10.col-lg.my-2.my-lg-0.m-0.m-lg-2
         .row.h-100.bg17
           .col.p-4
-            figure.mb-4.mb-lg-5
+            figure.mb-2.mb-lg-3
               img(src='@/assets/curso/tema2/img16.png', style="width: 250px").m-auto
             p.text-center Instauración de parámetros para la medición de las actividades.
       .col-10.col-lg.my-2.my-lg-0.m-0.m-lg-2
         .row.h-100.bg18
           .col.p-4
-            figure.mb-4.mb-lg-5
+            figure.mb-2.mb-lg-3
               img(src='@/assets/curso/tema2/img17.png', style="width: 250px").m-auto
             p.text-center Identificación de productos provechosos y productos que generen pérdidas.
       .col-10.col-lg.my-2.my-lg-0.m-0.m-lg-2
         .row.h-100.bg17
           .col.p-4
-            figure.mb-4.mb-lg-5
+            figure.mb-2.mb-lg-3
               img(src='@/assets/curso/tema2/img18.png', style="width: 250px").m-auto
             p.text-center Análisis de la tasa de crecimiento.
       .col-10.col-lg.my-2.my-lg-0.m-0.m-lg-2
         .row.h-100.bg18
           .col.p-4
-            figure.mb-4.mb-lg-5
+            figure.mb-2.mb-lg-3
               img(src='@/assets/curso/tema2/img19.png', style="width: 250px").m-auto
             p.text-center Identificación de problemas e implementación de soluciones.
     .row.py-0.py-lg-5.mb-5.justify-content-center
@@ -351,12 +354,13 @@
           p.my-2.ps-3.text-white No confundir un portafolio de productos con uno de negocio. El portafolio de producto es el grupo de todos los bienes y servicios que la marca ofrece al mercado, mientras que el de negocio abarca también inversiones, equipos, maquinaria, activos fijos y comerciales.
           img.img-a9.d-none.d-lg-block(src='@/assets/curso/tema2/img25.svg')
           img.img-a10(src='@/assets/curso/tema2/img26.svg')
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Elaboración de un portafolio de negocio]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-5.bg4-1
+        .p-2
+          .row.d-flex.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Elaboración de un portafolio de negocio
     .row.align-items-center.mb-5
       .col-lg-auto.p-4
         figure
@@ -452,12 +456,13 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/Zt6hQyGX554" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b ¿Cómo funciona el ciclo de vida de los productos digitales?]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-7.bg4-2
+        .p-2
+          .row.d-flex.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 ¿Cómo funciona el ciclo de vida de los productos digitales?
     .row.align-items-center.mb-3
       .col-lg-8.mb-4.mb-lg-0
         .bg19
@@ -524,12 +529,13 @@
         p Como lo expresan Kotler y Keller (2012), la marca es uno de los factores estratégicos vitales de una compañía porque diariamente adquiere más protagonismo. Actualmente se vive una etapa bajo el prisma del mercadeo de percepciones y, por tanto, sobresale la marca frente al producto. 
         p Para lograr el posicionamiento en la mente del consumidor, la marca debe tener el mejor y mayor reconocimiento en el mercado donde haga presencia. Los productos son cada vez más parecidos por lo que se le hace difícil al consumidor distinguir los atributos de uno y de otro producto.
         p Además de ser el principal identificador del producto, la marca es una garantía ubicándola en un plano superior. La marca le entrega una identidad y forja una relación emocional con los clientes.
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Funciones de la marca]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-3.bg4
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3 Funciones de la marca
     p.mb-3.mb-lg-5 Las funciones de la marca son:
     .row.bg22.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
@@ -561,12 +567,13 @@
       .col-lg-5
         figure
           img(src='@/assets/curso/tema2/img34.svg', style="width: 350px").m-auto
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Tipos de marca]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-3.bg4
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3 Tipos de marca
     p.mb-5 Kotler y Keller (2012), también hacen la siguiente clasificación de marcas según la relación que tengan con la organización que las sostiene:
     TabsB.color-acento-contenido.mb-5(data-aos="fade") 
       .py-4.py-md-5(titulo="Marca única" :icono="require('@/assets/curso/tema2/img35.svg')")
@@ -609,35 +616,35 @@
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
             figure.mb-3
               img.img-t(src='@/assets/curso/tema2/img38.svg').mx-auto
-            h3.text-center Marca madre o marca paraguas
+            h4.text-center Marca madre o marca paraguas
             p.text-center Componen el punto de referencia de la oferta, abrigando al producto y representan familias que ya poseen una identidad específica.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
             figure.mb-3
               img.img-t(src='@/assets/curso/tema2/img39.svg').mx-auto
-            h3.text-center Submarca
+            h4.text-center Submarca
             p.text-center Delimita una oferta diferente modificando la asociación de la marca madre en contextos específicos.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
             figure.mb-3
               img.img-t(src='@/assets/curso/tema2/img40.svg').mx-auto
-            h3.text-center Marca respaldadora
+            h4.text-center Marca respaldadora
             p.text-center Marca establecida, con prestigio y reconocimiento que otorga credibilidad y confianza a sus productos.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
             figure.mb-3
               img.img-t(src='@/assets/curso/tema2/img36.svg').mx-auto
-            h3.text-center Marca respaldada
+            h4.text-center Marca respaldada
             p.text-center Marca establecida que respalda, ampara y cubre a submarcas y/o productos.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media
             figure.mb-3
               img.img-t(src='@/assets/curso/tema2/img37.svg').mx-auto
-            h3.text-center Marca de beneficio
+            h4.text-center Marca de beneficio
             p.text-center Marcas que incluyen un beneficio determinado al producto a través de un atributo que entrega identidad, ventaja competitiva y diferenciación, concediendo el liderazgo en el mercado.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
@@ -645,12 +652,13 @@
     .row.justify-content-center.mb-5
       .col-lg-10.p-4.bg23
         LineaTiempoB.color-acento-contenido(:datos="datosLineaTiempoB")
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Identidad de marca]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-3.bg4
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3 Identidad de marca
     p.mb-5 Es el conjunto de activos y pasivos afines al nombre y símbolo de la marca que incluyen o sustraen el valor suministrado por un producto a la empresa y/o a sus clientes. Algunas de las categorías de activos son:
     .row.justify-content-center.mb-5
       .col-md-8.col-lg-5.col-xl-3.col-xxl.m-1
@@ -687,12 +695,13 @@
           p.my-2.ps-3.text-white La identidad de marca es el grupo de elementos, características y rasgos distintivos, constantes y perdurables en el tiempo que tiene una marca (personalidad, lenguaje, creencias, opiniones duraderas, actitudes, signos de identificación, entre otros). La identidad determina la forma de ser, pensar y actuar de la marca.
           img.img-a9.d-none.d-lg-block(src='@/assets/curso/tema2/img49.svg')
           img.img-a10(src='@/assets/curso/tema2/img26.svg')
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Imagen de marca]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-3.bg4
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3 Imagen de marca
     .row.align-items-center.mb-5
       .col-lg-4
         figure
@@ -700,17 +709,18 @@
       .col-lg-8
         p Es un término que se relaciona con la forma como el consumidor percibe e interpreta los mensajes comunicados por la marca. La imagen de marca hace referencia a lo que la gente piensa de ella, es la representación mental que el público objetivo siente a causa de la sumatoria de atributos y beneficios de la marca. 
         p #[b En suma, es una interpretación personalizada, una deducción del sentido, una síntesis que hace el cliente de todos los mensajes emitidos por la marca (nombre, distintivo visual, símbolos, productos, publicidad).]
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b #[i Branding]]
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-2.bg4
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-3 #[i Branding]
     .row.align-items-center.mb-5
       .col-lg-8
         p Es el conjunto de procesos estratégicos que componen la arquitectura de marca, y su principal objetivo es generar capital de marca. Radica en transmitir a los productos el poder de su marca, principalmente a través de la generación de elementos que los diferencien de otros productos. 
         p Genera estructuras mentales y ayuda a que los clientes ordenen sus conocimientos sobre los productos de manera que su toma de decisiones sea más simple, y en el proceso se forje valor para la empresa.
-        p.ms-4 Si se desea que las estrategias de <em>branding</em> generen valor de marca se hace necesario que los clientes se convenzan de que existen significativas diferencias entre las marcas de una misma categoría de productos. Estas diferencias se relacionan con propiedades o particularidades propias del producto.
+        p.bg23.p-3 Si se desea que las estrategias de <em>branding</em> generen valor de marca se hace necesario que los clientes se convenzan de que existen significativas diferencias entre las marcas de una misma categoría de productos. Estas diferencias se relacionan con propiedades o particularidades propias del producto.
         p Existen dos dimensiones del <em>branding</em> : #[b de producto y corporativo].
       .col-lg-4
         figure
@@ -720,18 +730,19 @@
         img.img-a11.d-none.d-lg-block(src='@/assets/curso/tema2/img51.svg')
         .row.h-100
           .col-12.px-5.pt-5.pb-5.pb-lg-0.bg24
-            p.mb-0 #[b En el <em>branding</em>  de producto], el bien o servicio es sinónimo de la marca permitiendo que el cliente sume las percepciones de la marca y su imagen sobre el producto; su intención es la generación de confianza en el producto.
+            p.mb-0 #[b En el#[i branding]  de producto], el bien o servicio es sinónimo de la marca permitiendo que el cliente sume las percepciones de la marca y su imagen sobre el producto; su intención es la generación de confianza en el producto.
       .col-10.col-lg.m-2.m-lg-2
         img.img-a11.d-none.d-lg-block(src='@/assets/curso/tema2/img52.svg')
         .row.h-100
           .col-12.px-5.pt-5.pb-5.pb-lg-0.bg25
-            p.mb-0 #[b El <em>branding</em>  corporativo], es un conjunto de todas las experiencias, percepciones y encuentros que ha tenido un consumidor con una empresa; su intención es la generación de confianza en la empresa.
-    .row.align-items-center.mb-4
-      .col-auto.pe-0
-        figure
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 40px").m-auto
-      .col
-        p.mb-0 #[b Desarrollar la estrategia de marca]
+            p.mb-0 #[b El #[i branding]  corporativo], es un conjunto de todas las experiencias, percepciones y encuentros que ha tenido un consumidor con una empresa; su intención es la generación de confianza en la empresa.
+    .row.mb-3(data-aos="fade-right")
+      .col-lg-4.bg4-1
+        .p-2
+          .row.align-items-center
+            .col-2
+            .col-auto
+              h3.ms-5 Desarrollar la estrategia de marca
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-2
         figure

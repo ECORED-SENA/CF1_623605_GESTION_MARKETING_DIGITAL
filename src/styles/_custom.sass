@@ -56,6 +56,10 @@
 
 .tabs-a__tab
   background-color: #E8E8E8
+.tabs-b__tab 
+  opacity: 0.5
+.tabs-b__tab--active
+  opacity: 1
 
 .tabs-a.color-acento-contenido .tabs-a__tab__selected
   .tabs-a__tab__text
@@ -165,6 +169,15 @@
 .bg4
   background-image: url(../assets/curso/tema1/img25.png)
   background-repeat: no-repeat
+
+.bg4-1
+  background-image: url(../assets/curso/tema1/img139.png)
+  background-repeat: no-repeat
+
+.bg4-2
+  background-image: url(../assets/curso/tema2/img59.png)
+  background-repeat: no-repeat
+
 
 .bg5
   background-color: #E8E1FC
@@ -349,10 +362,10 @@
     content: ''
     position: absolute
     margin: 0 0rem
-    top: 10%
+    top: -5%
     left: 0px
     width: calc( 5% + 20rem)
-    height: 80%
+    height: 100%
     background-color: #CCFFF0
     @media (max-width: $bp-max-md)
       background-size: cover
@@ -456,6 +469,14 @@
   background-size: cover
   border-radius: 15px !important
 
+
+
+.tarjeta.tarjeta--azul4
+  background-color: #F9F6FF
+
+.tarjeta.tarjeta--azul4.acordion__activo
+  background-color: #E8E1FC
+
 .tarjeta.color-acento-contenido1 
   background-color: #FFEA8E
   border-radius: 20px
@@ -479,15 +500,6 @@
   padding-top: 2rem
   padding-bottom: 2rem
 
-.slyderF-media
-  @media screen and ( max-width: 810px) 
-    margin-left: 3rem 
-    margin-right: 8rem
-    width: 97%
-    
-  @media screen and ( max-width: 414px) 
-    margin-left: -3rem 
-    margin-right: 4rem
 
 hr:not([size]) 
   height: 5px
@@ -508,3 +520,20 @@ hr:not([size])
   .banner-principal__info
     background-image: none
     animation: none
+
+.tamp
+  font-size: 18px
+.imgtem
+  left: 28% !important
+.patex
+  .tarjeta
+    padding-top: 30px !important
+.margslyd
+  .slyder-a__bullets__item
+    margin: 0 2px
+
+.boton.color-acento-contenido, .color-acento-contenido.boton--sm 
+  background-color: #26D19E
+
+.boton.color-acento-contenido:hover
+  background-color: #26D19E
