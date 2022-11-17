@@ -870,25 +870,25 @@ export default {
     modal1: false,
     datosLineaTiempoB: [
       {
-        titulo: 'Marca estratégica',
+        titulo: '<h4>Marca estratégica</h4>',
         texto:
           'Se encuentra en el núcleo de los planes estratégicos de la empresa a mediano o largo plazo y que personifica un futuro promisorio en ventas y beneficios.',
         icono: require('@/assets/curso/tema2/img41.svg'),
       },
       {
-        titulo: 'Marca pivote',
+        titulo: '<h4>Marca pivote</h4>',
         texto:
           'Admite el control sobre un fragmento crítico de interés para la empresa, entregando bases sólidas para la lealtad de los clientes con miras a futuras acciones del negocio.',
         icono: require('@/assets/curso/tema2/img42.svg'),
       },
       {
-        titulo: 'Balas de plata',
+        titulo: '<h4>Balas de plata</h4>',
         texto:
           'Marcas o submarcas que mejoran la percepción de otras marcas, además de influir positivamente en la imagen de ellas.',
         icono: require('@/assets/curso/tema2/img43.svg'),
       },
       {
-        titulo: 'Marca vaca lechera',
+        titulo: '<h4>Marca vaca lechera</h4>',
         texto:
           'Producto, marca o submarca del portafolio de un negocio que requiere de poca inversión, pero que genera mucha liquidez para la empresa.',
         icono: require('@/assets/curso/tema2/img44.svg'),

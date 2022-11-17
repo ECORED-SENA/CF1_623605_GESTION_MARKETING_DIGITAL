@@ -52,7 +52,8 @@
     background-image: url("../assets/curso/portada/banner-principal-decorativo-5.svg"), url("../assets/curso/portada/banner-principal-decorativo-6.svg")
 
 .banner-principal__img
-  width: 29%
+  width: 25%
+  padding-left: 1% !important
 
 .tabs-a__tab
   background-color: #E8E8E8
@@ -116,6 +117,12 @@
   width: 50px
   top: -6px
   left: 367px
+  @media (max-width: $bp-max-md)
+    top: -7px
+    left: 106px
+    width: 31px
+    
+
 
 .img-a8
   position: absolute
@@ -167,9 +174,9 @@
   border-radius: 10px
 
 .bg4
-  background-image: url(../assets/curso/tema1/img25.png)
-  background-repeat: no-repeat
-
+  background-color: #F9F6FF
+  border-radius: 10px
+ 
 .bg4-1
   background-image: url(../assets/curso/tema1/img139.png)
   background-repeat: no-repeat
@@ -512,8 +519,19 @@ hr:not([size])
 
 .borde
   border-top: 5px solid #764CF0
+  width: 300px
   &_2
     border-top: 5px solid #764CF0
+    width: 287px
+  &_3
+    border-top: 5px solid #764CF0
+    width: 420px
+  &_4
+    border-top: 5px solid #764CF0
+    width: 142px
+  &_5
+    border-top: 5px solid #764CF0
+    width: 402px
 
 @media screen and ( max-width: 1200px )
 
@@ -527,7 +545,7 @@ hr:not([size])
   left: 28% !important
 .patex
   .tarjeta
-    padding-top: 30px !important
+    padding-top: 20px !important
 .margslyd
   .slyder-a__bullets__item
     margin: 0 2px
@@ -537,3 +555,14 @@ hr:not([size])
 
 .boton.color-acento-contenido:hover
   background-color: #26D19E
+
+
+.linea-tiempo-b__icon img 
+  width: 55%
+ 
+.img84
+  @media (max-width: $bp-max-md)
+    margin-left: -36px
+    width: 134%
+    max-width: 132%
+  

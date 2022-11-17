@@ -4,7 +4,7 @@ export default {
       'El <em>buyer</em> persona según el contexto empresarial.',
     descripcionCurso:
       'Es vital delimitar el <em>buyer</em> persona en la estrategia de mercadeo digital para tener más oportunidades de éxito. Cuanto más conozcamos al cliente ideal, mejor se puede relacionar una marca con él para atraerlo hacia la empresa y darle el mensaje adaptado a su perfil y es así como la marca se puede convertir en su referente.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/buyer-persona.gif'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/buyer-persona1.gif'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
