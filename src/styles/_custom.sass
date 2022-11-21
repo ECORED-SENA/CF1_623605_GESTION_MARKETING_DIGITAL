@@ -526,12 +526,16 @@ hr:not([size])
   &_3
     border-top: 5px solid #764CF0
     width: 420px
+    @media (max-width: $bp-max-md)
+      max-width: 90%
   &_4
     border-top: 5px solid #764CF0
     width: 142px
   &_5
     border-top: 5px solid #764CF0
-    width: 402px
+    width: 396px
+    @media (max-width: $bp-max-md)
+      max-width: 90%
 
 @media screen and ( max-width: 1200px )
 
@@ -559,7 +563,16 @@ hr:not([size])
 
 .linea-tiempo-b__icon img 
   width: 55%
+
+
  
+.linea-tiempo-b__content
+  h3
+    font-size: 18px
+
+.linea-tiempo-b__icon  
+  width: 90%
+  padding-top: 90%
 .img84
   @media (max-width: $bp-max-md)
     margin-left: -36px

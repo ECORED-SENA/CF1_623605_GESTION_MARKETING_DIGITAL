@@ -479,7 +479,7 @@
       .col
         h4.mb-0.bgtex Etapa 3. 
         p.mb-0.tamp Elección y desarrollo de las estrategias de <em>marketing</em>
-        .col-md-6.borde_3
+        .col-md-4.borde_3
     p Esta etapa sirve para la consecución de los objetivos. Para la definición de las estrategias se deben tener en cuenta las “4P” desde lo digital que, mezcladas de la manera más provechosa, darán como resultado en una estrategia coherente con el producto ofrecido en la <em>web</em>. 
     p.mb-5 Una posible lista de temas para tener en cuenta, en la elaboración de las estrategias, es:
     .row.align-items-center.justify-content-center.mb-5
@@ -821,7 +821,7 @@
           .col-auto.pe-0
             figure
               img(src='@/assets/curso/tema1/img25.svg') 
-          .col-auto.me-3
+          .col-9.col-lg-auto.me-3
             h3.mb-0 Establecer Unidades Estratégicas de Negocios (UEN)
 
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
@@ -854,7 +854,7 @@
           .col-auto.pe-0
             figure
               img(src='@/assets/curso/tema1/img25.svg') 
-          .col-auto.me-3
+          .col-9.col-lg-auto.me-3
             h3.mb-0 Asignar recursos a cada unidad estratégica de negocios
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-4.mb-4.mb-lg-0
@@ -870,7 +870,7 @@
             figure
               img(src='@/assets/curso/tema1/img25.svg') 
           .col-8.col-lg-auto.me-3
-            h4.mb-0 Evaluar las oportunidades de crecimiento
+            h3.mb-0 Evaluar las oportunidades de crecimiento
     p.mb-5 Esto incluye tanto la planeación de nuevos negocios, como el retiro de negocios antiguos. El proceso de planificación estratégica de las unidades de negocio consta de los siguientes pasos (<em>Kotler y Keller</em>, 2012):
     .bg8
       .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
@@ -992,17 +992,17 @@
           .col-md-3.col-12.mb-4.mb-md-3
             figure
               img.img-t.mx-auto(src='@/assets/curso/tema1/img107.svg', alt='Texto que describa la imagen')
-          .col-md-7.col-12.mb-4.mb-md-0
+          .col-md-7.col-12.mb-2.mb-md-0
             h4 Segmentación geográfica
             p Permite concebir dónde están localizados de forma geográfica los consumidores potenciales del producto. Trabaja sobre el principio de que la gente que corresponde a esa zona geográfica tiene necesidades, deseos y características culturales parecidas. Con estos datos las marcas pueden crear sus campañas de manera estratégica, usando el lenguaje correcto y comprendiendo si su oferta es importante para las personas de esa región. Para hacer una segmentación geográfica debes tener en cuenta algunas variables:
             .row.justify-content-center.mb-5
-              .col-md-6.col-lg.mb-5.mb-lg-0
+              .col-md-6.col-lg.mb-2.mb-lg-0
                 .tarjeta-avatar.patex
                   img.imgtem(src='@/assets/curso/tema1/img108.svg', style="width: 50px")
                   .tarjeta.color-acento-contenido2
                     .p-3
                       p <b>Localización</b>. Puede ir desde un continente hasta un vecindario. 
-              .col-md-6.col-lg.mb-5.mb-lg-0
+              .col-md-6.col-lg.mb-2.mb-lg-0
                 .tarjeta-avatar.patex
                   img.imgtem(src='@/assets/curso/tema1/img109.svg', style="width: 50px")
                   .tarjeta.color-acento-contenido2
