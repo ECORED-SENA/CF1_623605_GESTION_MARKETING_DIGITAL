@@ -272,7 +272,7 @@
           .col-auto.pe-0
             figure
               img(src='@/assets/curso/tema1/img25.svg') 
-          .col-auto.me-3
+          .col-9.col-lg-auto.me-3
             h3.mb-0 Etapas del plan de <em>marketing online</em> 
               
     p Una vez establecido el plan de mercadeo tradicional, se ponen en marcha actividades que se pueden desarrollar desde internet. Inicialmente, tener presencia en la <em>web</em> es relativamente fácil, analizado desde lo técnico y lo económico. En segunda instancia, ser efectivo con la estrategia de mercadeo digital es más complejo, puesto que el simple hecho de crear una <em>web</em> no es suficiente para lograr visibilidad; se requiere de planear una estrategia, con objetivos delimitados de manera perfecta y con herramientas y vías para hacerlos realidad. 
