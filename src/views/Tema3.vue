@@ -39,7 +39,7 @@
           p.mb-3.ps-3 #[span.txt-c2 En la actualidad, con tantos conflictos globales, se escucha a menudo la frase] #[span.txt-c1 “el mundo necesita más empatía”]#[span.txt-c2 . Esto es debido a que la empatía tiene la habilidad de entender el estado emocional de alguien al ubicarse en su lugar, permitiendo analizar los contextos sobre diferentes perspectivas. Esta herramienta fue diseñada por la empresa Xplane y, a través de ella, se personaliza, caracteriza y establece un enfoque más empático del consumidor. El mapa de empatía ayuda a ahondar en la comprensión del cliente porque se puede conocer su personalidad, visión, entorno, deseos y necesidades.]
           img.img-a12.d-none.d-lg-block(src='@/assets/curso/tema3/img3.svg')
           img.img-a13(src='@/assets/curso/tema3/img4.svg')
-    p.mb-5 Ahora se debe imaginar cómo estos sentimientos se deben ubicar en categorías divididas por dolores, necesidades y sentimientos, y en cuadrantes que hacen fácil la visualización. Así es como funciona el mapa de empatía, su objetivo es detallar la personalidad del cliente para entenderlo mejor. Se puede diseñar en un tablero, flip chart, cartelera o digitalmente y cuando se hace en papel, su diseño se completa con post-its. Independiente de cuál sea el soporte, el mapa de empatía se debe dividir de la siguiente forma:
+    p.mb-5 Ahora se debe imaginar cómo estos sentimientos se deben ubicar en categorías divididas por dolores, necesidades y sentimientos, y en cuadrantes que hacen fácil la visualización. Así es como funciona el mapa de empatía, su objetivo es detallar la personalidad del cliente para entenderlo mejor. Se puede diseñar en un tablero, <em>flip chart</em>, cartelera o digitalmente y cuando se hace en papel, su diseño se completa con <em>post-its</em>. Independiente de cuál sea el soporte, el mapa de empatía se debe dividir de la siguiente forma:
     .titulo-sexto.color-acento-contenido
       p.mb-0 #[b Figura 4]. Grafica mapas de empatía
     .row.justify-content-center.mb-5
@@ -230,7 +230,7 @@
         figure.mb-3
           img.img-t(src='@/assets/curso/tema3/img24.png', style="width: 550px")
         h4.mb-3 Ejemplo de público objetivo:
-        p.mb-0 hombres y mujeres, entre 24 y 30 años, solteros, arquitectos, ingresos mensuales promedio de $3.500.000 que desean incrementar su aprendizaje profesional y les fascina viajar.
+        p.mb-0 Hombres y mujeres, entre 24 y 30 años, solteros, arquitectos, ingresos mensuales promedio de $3.500.000 que desean incrementar su aprendizaje profesional y les fascina viajar.
       .col-11.col-lg.p-4.p-lg-5.bg31.m-2
         figure.mb-3
           img.img-t(src='@/assets/curso/tema3/img23.png', style="width: 550px")
@@ -385,7 +385,7 @@
         .bg35
           .row.align-items-center
             .col.mb-4.mb-lg-0
-              p.mb-0 Otra opción es usar un modelo gráfico para su representación. Se puede considerar también que el <em>buyer</em> persona puede ser alguien que no sabe si busca la empresa, sino más bien la solución a un problema. Esto sucede a menudo en sitios de empresas que desarrollan inbound <em>marketing</em>. Entonces, se debe plantear: ¿cómo se puede abordar y exponer el contenido relacionado con el mercado para ese <em>buyer</em> persona?
+              p.mb-0 Otra opción es usar un modelo gráfico para su representación. Se puede considerar también que el <em>buyer</em> persona puede ser alguien que no sabe si busca la empresa, sino más bien la solución a un problema. Esto sucede a menudo en sitios de empresas que desarrollan <em>inbound marketing</em>. Entonces, se debe plantear: ¿cómo se puede abordar y exponer el contenido relacionado con el mercado para ese <em>buyer</em> persona?
             .col-lg-auto
               a.boton.color-acento-botones.indicador__container.me-0.me-lg-3(@click="modal1 = true")
                 span.txt-c3 #[i Buyer] Persona

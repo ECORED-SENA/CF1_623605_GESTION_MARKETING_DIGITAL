@@ -18,8 +18,8 @@
       .col-lg-12
         figure.p-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/84fuGpQeYg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-         
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/lpS6sY69J1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            
     p.mb-5 El mercadeo, para definirlo desde el contexto social, muestra una función basada en la sociedad; por ejemplo, el rol del mercadeo es la entrega de un modelo de vida de mejor calidad. Por eso, es un proceso social en el que existen grupos de personas e individuos que logran lo que necesitan y desean a través de la creación, comercio e intercambio de productos de valor para ellos. Los especialistas de mercadeo promocionan 10 tipos principales de artículos, a saber: 
     .tarjeta.tarjeta--azul.p-5.mb-5
       SlyderA.margslyd(tipo="b")(data-aos="fade-right")
@@ -136,7 +136,7 @@
           .tarjeta.bg2.p-4.h-100.position-relative.slyderF-media 
             figure.mb-3
               img.img-t(src='@/assets/curso/tema1/img21.png').mx-auto
-            h4.text-center Demanda Demanda completa
+            h4.text-center Demanda completa
             p.text-center El consumidor compra de forma adecuada todos los productos que se ofrecen en el mercado.
             img.img-a(src='@/assets/componentes/circulo.svg')
             img.img-a2(src='@/assets/componentes/rectangulo.svg')
@@ -886,7 +886,8 @@
         .col-lg-8
           figure.p-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/84fuGpQeYg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
         .col-lg-10
           p Cuando se habla del <b>análisis del entorno externo (oportunidades y amenazas)</b>, se refiere al macro entorno, donde se analiza el Pestel, es decir las variables: política, económica, socio cultural, tecnológica, ecológica y legal, las cuales deben ser estudiadas desde el contexto empresarial. <b>El análisis del entorno interno (fortalezas y debilidades)</b>, se refiere al micro entorno, donde se evalúan las fortalezas y debilidades de una marca. Las empresas pueden evaluar sus propias fortalezas y debilidades a través de una lista de verificación donde se analice, principalmente, la filosofía empresarial (misión, visión y valores), la diferencia competitiva, los proveedores, los distribuidores, los clientes, los socios (si los hay) y la competencia. 
       .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
@@ -1020,7 +1021,7 @@
               img.img-t.mx-auto(src='@/assets/curso/tema1/img104.svg', alt='Texto que describa la imagen')
           .col-md-7.col-12.mb-4.mb-md-0
             h4 Segmentación demográfica
-            p Permite hacer división por variables como edad, familia (tamaño y ciclo de vida), género, nacionalidad, ocupación, ingresos, estrato socio económico, educación, religión, raza y generación. La demografía puede estar asociada con las necesidades y deseos de los consumidores (psicografía), por lo que hay que tener coherencia a la hora de describirlas; son fáciles de medir.      
+            p Permite hacer división por variables como edad, familia (tamaño y ciclo de vida), género, nacionalidad, ocupación, ingresos, estrato socioeconómico, educación, religión, raza y generación. La demografía puede estar asociada con las necesidades y deseos de los consumidores (psicografía), por lo que hay que tener coherencia a la hora de describirlas; son fáciles de medir.      
         .row.justify-content-lg-center.align-items-center(titulo="")
           .col-md-3.col-12.mb-4.mb-md-3
             figure
@@ -1146,7 +1147,7 @@
               .col-lg-auto
                 img(src='@/assets/curso/tema1/img135.svg', style="width: 35px")
               .col
-                p.mb-0 <b>Tamaño de pedido</b>: : centrarse en pedidos grandes o pequeños.
+                p.mb-0 <b>Tamaño de pedido</b>: centrarse en pedidos grandes o pequeños.
           .col-lg-4.col-6
             figure
               img(src="@/assets/curso/tema1/img122.png", alt="alt")
@@ -1168,7 +1169,7 @@
               .col-lg-auto
                 img(src='@/assets/curso/tema1/img138.svg', style="width: 35px")
               .col
-                p.mb-0 <b>Lealtad</b>:atención a empresas que exponen excelente lealtad a sus proveedores. 
+                p.mb-0 <b>Lealtad</b>: atención a empresas que exponen excelente lealtad a sus proveedores. 
           .col-lg-4.col-6
             figure
               img(src="@/assets/curso/tema1/img123.png", alt="alt")

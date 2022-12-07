@@ -137,7 +137,7 @@
           img(src='@/assets/curso/tema2/img3.png', style="width: 350px").m-auto
       .col-lg-8
         p Para Vaciero y Hernández (2018) es una herramienta de gestión estratégica que permite conocer los aspectos clave de una marca: cómo se relacionan y ayudan entre sí. Hace notoria la infraestructura, los clientes, la oferta y la situación financiera de la empresa para el reconocimiento de las deficiencias y el análisis del rendimiento.
-        p Es un modelo visual con el que se puede organizar las ideas en el momento de crear un modelo de negocio; e s ideal para establecer y diseñar modelos vanguardistas con el fin de crear valor para los clientes. Fue inventado por el consultor de negocios Alexander Osterwalder y el docente de sistemas de información y gestión Yves Pigneur. Su trabajo definió nueve categorías del modelo de negocio, las cuales encarnan los componentes básicos de una marca.
+        p Es un modelo visual con el que se puede organizar las ideas en el momento de crear un modelo de negocio; es ideal para establecer y diseñar modelos vanguardistas con el fin de crear valor para los clientes. Fue inventado por el consultor de negocios Alexander Osterwalder y el docente de sistemas de información y gestión Yves Pigneur. Su trabajo definió nueve categorías del modelo de negocio, las cuales encarnan los componentes básicos de una marca.
         a.boton.color-acento-contenido.indicador__container(@click="modal1 = true")
           span Modelo Canvas
           .indicador--click(v-if="mostrarIndicador")
@@ -721,7 +721,7 @@
         p Es el conjunto de procesos estratégicos que componen la arquitectura de marca, y su principal objetivo es generar capital de marca. Radica en transmitir a los productos el poder de su marca, principalmente a través de la generación de elementos que los diferencien de otros productos. 
         p Genera estructuras mentales y ayuda a que los clientes ordenen sus conocimientos sobre los productos de manera que su toma de decisiones sea más simple, y en el proceso se forje valor para la empresa.
         p.bg23.p-3 Si se desea que las estrategias de <em>branding</em> generen valor de marca se hace necesario que los clientes se convenzan de que existen significativas diferencias entre las marcas de una misma categoría de productos. Estas diferencias se relacionan con propiedades o particularidades propias del producto.
-        p Existen dos dimensiones del <em>branding</em> : #[b de producto y corporativo].
+        p Existen dos dimensiones del <em>branding</em>: #[b de producto y corporativo].
       .col-lg-4
         figure
           img(src="@/assets/curso/tema2/img29.png", style="width: 350px")
@@ -730,7 +730,7 @@
         img.img-a11.d-none.d-lg-block(src='@/assets/curso/tema2/img51.svg')
         .row.h-100
           .col-12.px-5.pt-5.pb-5.pb-lg-0.bg24
-            p.mb-0 #[b En el#[i branding]  de producto], el bien o servicio es sinónimo de la marca permitiendo que el cliente sume las percepciones de la marca y su imagen sobre el producto; su intención es la generación de confianza en el producto.
+            p.mb-0 #[b En el #[i branding]  de producto], el bien o servicio es sinónimo de la marca permitiendo que el cliente sume las percepciones de la marca y su imagen sobre el producto; su intención es la generación de confianza en el producto.
       .col-10.col-lg.m-2.m-lg-2
         img.img-a11.d-none.d-lg-block(src='@/assets/curso/tema2/img52.svg')
         .row.h-100
@@ -800,7 +800,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-4.mb-4.mb-lg-0
             h4 Aplicar la estrategia de marca
-            p Luego de la planear teóricamente la estrategia de marca, se debe implementar incluyendo:
+            p Luego de planear teóricamente la estrategia de marca, se debe implementar incluyendo:
             ul.lista-ul
               li 
                 i.fas.fa-check(style="color:#26D19E")
